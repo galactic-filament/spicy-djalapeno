@@ -12,7 +12,7 @@
 | Logging               | [Django Logging](https://docs.djangoproject.com/en/4.0/ref/logging/)  |
 | Test Framework        | [Django Tests](https://docs.djangoproject.com/en/4.0/topics/testing/) |
 | Test Coverage         | [coverage](https://coverage.readthedocs.io/en/6.3.1/)                 |
-| Version Management    | [pyenv](https://github.com/pyenv/pyenv)                               |
+| Version Management    | [poetry](https://python-poetry.org/)                                  |
 | Dependency Management | [poetry](https://python-poetry.org/)                                  |
 
 ## Features Implemented
